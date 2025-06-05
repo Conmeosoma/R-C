@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+int main(){
+cout << "Hello everyone welcome to my profile github thank you for spend some time visit me. hehehehee 4:46:33 5/6/2025";
+return 0;
+}
